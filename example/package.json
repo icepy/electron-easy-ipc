@@ -11,6 +11,6 @@
   "author": "icepy",
   "license": "MIT",
   "dependencies": {
-    "electron": "^18.3.7"
+    "electron": "^42.11.16"
   }
 }
