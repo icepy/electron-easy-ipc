@@ -81,7 +81,3 @@ longClient.onMessage = (message) => {
   longClient.sendMessage("renderer to main message");
 }
 ```
-
-## LICENSE
-
-MIT License Copyright (c) 2019 子曰五溪
